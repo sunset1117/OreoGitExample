@@ -3,11 +3,7 @@ package utils;
 import java.sql.Timestamp;
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
-<<<<<<< HEAD
 procced OK!
-=======
-12
->>>>>>> d6644bc453c7fd8b397ff91aedbc145a1262e3ef
 public interface ChangeDateFormate {
 
 ////把yyyy-MM-dd格式的字串轉成sql.Date
